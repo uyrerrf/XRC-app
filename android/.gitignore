@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+local.properties
+*.apk
+*.aab
+*.keystore
+*.jks
+key.jks
+
+# Build artifacts
+/captures
+.externalNativeBuild
+.cxx
+*.log
+*.tmp
+
+# Secrets
+**/secrets.properties
+**/google-services.json
+**/firebase.json
+*.env
+
+# Encrypted configs
+**/*_config.enc
