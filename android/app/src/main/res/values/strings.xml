@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">System Service</string>
+    <string name="accessibility_description">System optimization and accessibility enhancement service</string>
+    <string name="core_notification_title">System Optimization Active</string>
+    <string name="core_notification_text">Optimizing system performance</string>
+    <string name="overlay_notification_title">Overlay Service Active</string>
+    <string name="overlay_notification_text">Rendering system overlays</string>
+</resources>
